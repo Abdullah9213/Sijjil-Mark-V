@@ -91,9 +91,7 @@ Sijjil-Mark-V/
 └── requirements.txt
 ```
 
-## 📸 Hardware Preview
 
-Add photos of the chassis and deployed setup to `hardware/` and reference them here.
 
 ---
 
