@@ -5,7 +5,13 @@
 
 
 ---
+> ⚠️ **NOTICE: Proprietary Source Code**
+> This repository serves as a technical showcase for the **Sijjil Mark-V** system. 
+> Due to **pending Intellectual Property (IP) filings** and NDA restrictions, the core inference logic and thermal control algorithms are **closed-source**.
+> 
+> This documentation demonstrates the **System Architecture**, **Engineering Methodologies**, and **Performance Benchmarks** used in production.
 
+---
 ## 📖 Executive Summary
 
 **Sijjil Mark-V** (codename: *The Interceptor*) is an edge-native perimeter defense appliance built for hostile environments (smog, fog, extreme heat). All inference runs locally on embedded Edge AI hardware to guarantee low latency and data sovereignty.
@@ -105,6 +111,6 @@ This project is intended for defensive perimeter security only. Ensure local reg
 
 Abdullah Ghaffar — Edge AI Specialist
 
-- LinkedIn: ttps://www.linkedin.com/in/abdullah-ghaffar--
+- LinkedIn: https://www.linkedin.com/in/abdullah-ghaffar--
 - Email: abdullah.gheffer@gmail.com
 
